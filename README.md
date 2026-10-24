@@ -1,11 +1,11 @@
-﻿# WAIGE — Language Translation
+﻿# WAIGE — Language Translation App
 
 WAIGE is a desktop language translation application.
 
-## Publisher
-Natnael Tibebu
+**Publisher:** Natnael Tibebu
 
 ## Features
+
 - Chat-style translation interface
 - Multiple language options
 - Copy translated answers
@@ -14,8 +14,9 @@ Natnael Tibebu
 - Custom WAIGE font
 
 ## Requirements
-- Compatible Python version
-- Dependencies listed in requirements.txt
+
+- A compatible Python version
+- Dependencies listed in `requirements.txt`
 - Internet connection for online translations
 
 ## Run from source
@@ -25,5 +26,6 @@ python -m pip install -r requirements.txt
 python main.py
 ```
 
-## Downloads
-Visit the GitHub Releases page to download available Windows builds.
+## Windows downloads
+
+Visit the [GitHub Releases](https://github.com/nahomdaniel224-a11y/WAIGE/releases) page for available Windows builds.
